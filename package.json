@@ -1,7 +1,7 @@
 {
-  "name": "awesome-list-template",
+  "name": "awesome-rimworld",
   "version": "1.0.0",
-  "description": "A batteries-included template for creating awesome lists",
+  "description": "A curated list of awesome RimWorld resources",
   "private": true,
   "scripts": {
     "lint": "markdownlint-cli2 '**/*.md' '#node_modules'",
@@ -22,7 +22,7 @@
     "awesome",
     "awesome-list",
     "curated-list",
-    "template"
+    "rimworld"
   ],
   "license": "CC0-1.0"
 }

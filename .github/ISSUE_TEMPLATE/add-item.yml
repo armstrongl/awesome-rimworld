@@ -41,8 +41,19 @@ body:
       label: Category
       description: Which section should this go in?
       options:
-        - Section One
-        - Section Two
+        - Official Resources
+        - Mod Managers
+        - Framework Mods
+        - Quality of Life
+        - Performance
+        - UI and Interface
+        - Combat
+        - Vanilla Expanded
+        - Content Expansion
+        - Mod Collections
+        - Modding Resources
+        - Communities
+        - Related
         - Suggest new category
     validations:
       required: true

@@ -1,14 +1,18 @@
 # Contribution Guidelines
 
-Thank you for contributing to this awesome list! Please follow these guidelines.
+Thank you for contributing to this curated list of RimWorld mods, tools, and resources! Please follow these guidelines to help maintain quality and consistency.
 
 ## Adding an Item
 
 ### Requirements
 
-- The item must be relevant to the list topic
-- The item should be well-maintained and of high quality
+- The item must be relevant to RimWorld (mods, tools, guides, or community resources)
 - You should have personal experience with the item
+- **Quality criteria for mods:**
+  - Actively maintained (updated within the last year preferred)
+  - Good community reputation (positive reviews, active discussion)
+  - Compatible with the current RimWorld version (1.5+)
+  - No known game-breaking bugs or conflicts with popular mods
 
 ### Format
 
@@ -24,6 +28,24 @@ All items must follow this format:
 - Descriptions must end with proper punctuation (period, exclamation, or question mark)
 - Keep descriptions concise (one sentence)
 - Place items in alphabetical order within their category
+
+### DLC Labels
+
+If a mod or resource requires a specific DLC, add the appropriate label after the item name:
+
+| DLC      | Label |
+| -------- | ----- |
+| Royalty  | 🏛️    |
+| Ideology | 📿    |
+| Biotech  | 🧬    |
+| Anomaly  | 👁️    |
+
+**Example with DLC requirement:**
+
+```markdown
+- [Mod Name](https://url.com) 🧬 - A mod that requires Biotech DLC.
+- [Another Mod](https://url.com) 🏛️📿 - A mod requiring both Royalty and Ideology.
+```
 
 ### Process
 
