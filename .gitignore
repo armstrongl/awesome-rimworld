@@ -1,0 +1,217 @@
+
+# ------------------------------------------------------------------------------
+# macOS system files
+# ------------------------------------------------------------------------------
+# These files are created automatically by macOS and have no value in version
+# control. They store folder metadata, Finder preferences, and Spotlight data.
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Resource forks and extended attributes stored as separate files
+._*
+
+# Folder-level system metadata
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.VolumeIcon.icns
+
+# Disk image artifacts
+.DocumentRevisions-V100
+.com.apple.timemachine.donotpresent
+
+# ------------------------------------------------------------------------------
+# Editors and IDEs
+# ------------------------------------------------------------------------------
+# Each editor creates workspace and configuration files that are specific to
+# your local environment. These shouldn't be shared across contributors.
+
+# Visual Studio Code
+# Remove this section if your team shares VS Code settings via the repository
+.vscode/
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
+
+# Vim swap and backup files
+*.swp
+*.swo
+*.swn
+*~
+
+# Emacs backup and lock files
+\#*\#
+.#*
+*.elc
+
+# TextMate
+*.tmproj
+*.tmproject
+tmtags
+
+# Panic Nova
+.nova/
+
+# ------------------------------------------------------------------------------
+# Static site generators
+# ------------------------------------------------------------------------------
+# Most documentation projects use a static site generator to build HTML output.
+# These directories contain generated files that can be rebuilt from source.
+
+# Jekyll (Ruby-based, used by GitHub Pages)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Hugo (Go-based)
+public/
+resources/_gen/
+
+# MkDocs (Python-based, common for technical docs)
+site/
+
+# Docusaurus (React-based)
+build/
+.docusaurus/
+
+# VuePress and VitePress
+.vuepress/dist/
+.vitepress/dist/
+.vitepress/cache/
+
+# Sphinx (Python documentation)
+_build/
+docs/_build/
+
+# Astro
+dist/
+
+# General build output (covers other generators)
+out/
+
+# ------------------------------------------------------------------------------
+# Node.js tooling
+# ------------------------------------------------------------------------------
+# Many Markdown workflows use Node-based tools for linting, formatting, or
+# building. Remove this section if you don't use any JavaScript tooling.
+
+node_modules/
+
+# Lock files - package-lock.json is tracked for reproducible CI builds
+# Uncomment these if you want to ignore lock files:
+# package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Runtime and debug logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Cache directories
+.npm/
+.yarn/
+.pnpm-store/
+
+# ------------------------------------------------------------------------------
+# Python tooling
+# ------------------------------------------------------------------------------
+# Python tools like MkDocs, Sphinx, and pre-commit create virtual environments
+# and cache files. Remove this section if you don't use Python tooling.
+
+# Virtual environments (common naming conventions)
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution and packaging
+*.egg-info/
+dist/
+build/
+
+# pip
+pip-log.txt
+
+# ------------------------------------------------------------------------------
+# Ruby tooling
+# ------------------------------------------------------------------------------
+# Jekyll and other Ruby-based tools create local gem installations.
+# Remove this section if you don't use Ruby tooling.
+
+vendor/bundle/
+.bundle/
+Gemfile.lock
+
+# ------------------------------------------------------------------------------
+# Generated output files
+# ------------------------------------------------------------------------------
+# These are typically build artifacts created from your Markdown source.
+# IMPORTANT: Remove any lines for file types you intentionally track.
+
+# Rendered HTML (if generated from Markdown)
+# *.html
+
+# Generated PDFs (if created via pandoc, weasyprint, etc.)
+# *.pdf
+
+# Generated EPUB or MOBI (ebook formats)
+# *.epub
+# *.mobi
+
+# ------------------------------------------------------------------------------
+# Temporary and backup files
+# ------------------------------------------------------------------------------
+# These are created by various tools during editing or processing.
+
+# General temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+*.orig
+
+# Markdown editor drafts (iA Writer, Ulysses, etc.)
+*.writersafe
+
+# ------------------------------------------------------------------------------
+# Secrets and local configuration
+# ------------------------------------------------------------------------------
+# Never commit credentials, API keys, or environment-specific configuration.
+
+# Environment files (often contain API keys or secrets)
+.env
+.env.local
+.env.*.local
+
+# Local configuration overrides
+*.local
+config.local.*
+
+# ------------------------------------------------------------------------------
+# Miscellaneous
+# ------------------------------------------------------------------------------
+
+# Thumbnail caches
+Thumbs.db
+ehthumbs.db
+
+# Archive files (typically not source material)
+# *.zip
+# *.tar.gz
+# *.rar
