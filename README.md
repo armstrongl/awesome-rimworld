@@ -23,8 +23,6 @@
 - [Modding Resources](#modding-resources)
 - [Communities](#communities)
 - [Related](#related)
-- [Contributing](#contributing)
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Official Resources
