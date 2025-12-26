@@ -39,8 +39,8 @@ Official RimWorld resources from Ludeon Studios.
 
 Tools for managing, sorting, and organizing your mod lists.
 
-- [RimSort](https://github.com/RimSort/RimSort) - Open-source mod manager with cross-platform support, actively maintained as the modern alternative to RimPy.
 - [RimPy Mod Manager Database](https://steamcommunity.com/sharedfiles/filedetails/?id=1847679158) - Community-maintained database of mod sorting rules used by both RimPy and RimSort.
+- [RimSort](https://github.com/RimSort/RimSort) - Open-source mod manager with cross-platform support, actively maintained as the modern alternative to RimPy.
 
 ## Framework Mods
 
@@ -192,10 +192,10 @@ Resources for creating RimWorld mods.
 
 Places to discuss RimWorld and connect with other players.
 
+- [Ludeon Forums](https://ludeon.com/forums/) - Official forums for in-depth discussions and mod help.
 - [r/RimWorld](https://reddit.com/r/RimWorld) - Active subreddit for gameplay discussion, stories, and memes.
 - [r/RimWorldMods](https://reddit.com/r/RimWorldMods) - Subreddit focused on mod discussion and recommendations.
 - [RimWorld Discord](https://discord.gg/rimworld) - Official community Discord server with mod development channels.
-- [Ludeon Forums](https://ludeon.com/forums/) - Official forums for in-depth discussions and mod help.
 
 ## Related
 
