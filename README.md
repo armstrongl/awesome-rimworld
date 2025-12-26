@@ -61,24 +61,31 @@ Mods that improve the day-to-day experience of playing RimWorld.
 - [Auto-Cut Blight](https://steamcommunity.com/sharedfiles/filedetails/?id=3520167264) - Automatically designates blighted crops for cutting to prevent spread.
 - [AutoBlink](https://steamcommunity.com/sharedfiles/filedetails/?id=3493889625) - Enables automatic use of blink psycast abilities for combat and escape.
 - [Basic Double Doors](https://steamcommunity.com/sharedfiles/filedetails/?id=3223646936) - Introduces double-door variants of vanilla doors including autodoor options.
+- [Better Spike Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=1459119465) - Reduces spike trap costs and removes placement distance limitations.
 - [Better Workbench Management](https://steamcommunity.com/sharedfiles/filedetails/?id=935982361) - Enhances bill management with copying, linking, reordering, and additional counting options.
 - [Blueprints Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3525001145) - Save and load building blueprints for quick recreation of room layouts.
 - [Bunk Beds](https://steamcommunity.com/sharedfiles/filedetails/?id=2961752749) - Space-saving furniture that stores up to 3 pawns in the same 2 tiles.
+- [Camping Tent](https://steamcommunity.com/sharedfiles/filedetails/?id=2407128339) - Adds portable tent structures that function as beds with mood benefits.
 - [Cherry Picker](https://steamcommunity.com/sharedfiles/filedetails/?id=3521312241) - Selectively enable or disable specific content from mods without unsubscribing.
 - [CM Color Coded Mood Bar](https://steamcommunity.com/sharedfiles/filedetails/?id=2006605356) - Color-codes colonist mood bars from green (happy) to red (mental break imminent).
 - [Colony Manager Redux](https://steamcommunity.com/sharedfiles/filedetails/?id=3310027356) - Automates resource management by setting targets for meat, wood, steel, and animal populations.
 - [Common Sense](https://steamcommunity.com/sharedfiles/filedetails/?id=1561769193) - Makes colonists smarter with optional behaviors like cleaning before work.
+- [De-generalize Work](https://steamcommunity.com/sharedfiles/filedetails/?id=2011655761) - Restores individual work speed stats for tailoring, smithing, and sculpting.
 - [Deep Storage](https://steamcommunity.com/sharedfiles/filedetails/?id=1617282896) - Adds storage buildings like shelves and pallets to dramatically reduce storage room sizes.
 - [Draftable Animals - Releashed](https://steamcommunity.com/sharedfiles/filedetails/?id=3534629428) - Allows drafting and directly controlling animals in combat situations.
 - [Dubs Mint Menus](https://steamcommunity.com/sharedfiles/filedetails/?id=1446523594) - Overhauls architect and crafting menus with searching and filtering.
 - [EdB Prepare Carefully](https://steamcommunity.com/sharedfiles/filedetails/?id=735106432) - Fine-tuned control over starting colonist creation with balanced and non-balanced options.
 - [Everybody Gets One - Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=3530806680) - Distributes items evenly among colonists based on configurable rules.
 - [Giddy-Up 2 Forked](https://steamcommunity.com/sharedfiles/filedetails/?id=3246108162) - Allows pawns to ride animals around the map and use them as battle mounts.
+- [Grazing Lands](https://steamcommunity.com/sharedfiles/filedetails/?id=1770268130) - Prevents animals from destroying grass when eating with configurable options.
+- [Haul to Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=949498803) - Optimizes hauling by prioritizing adding items to existing stacks.
+- [Hunt for Me](https://steamcommunity.com/sharedfiles/filedetails/?id=1593245720) - Enables tamed predators to hunt solo or in packs with customizable behavior.
 - [Keyz' Allow Utilities](https://steamcommunity.com/sharedfiles/filedetails/?id=3524716849) - Adds additional allow/forbid utilities for streamlined item management.
 - [Level Up!](https://steamcommunity.com/sharedfiles/filedetails/?id=1701592470) - Sends notifications when colonists gain skill levels with configurable spam reduction.
 - [Not My Fault](https://steamcommunity.com/sharedfiles/filedetails/?id=2870045856) - Removes the faction reputation penalty when visitors die from events beyond your control.
 - [OgreStack](https://steamcommunity.com/sharedfiles/filedetails/?id=1447140290) - Customize stack sizes for items with an in-game menu for targeting specific items.
 - [Pick Up And Haul](https://steamcommunity.com/sharedfiles/filedetails/?id=1279012058) - Colonists fill their inventory when hauling instead of carrying one item at a time.
+- [Prisoner Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=2864410456) - Enhances prisoner management with assigned beds, food controls, and clothing options.
 - [QualityBuilder Unofficial 1.6](https://steamcommunity.com/sharedfiles/filedetails/?id=3512466087) - Assigns construction jobs to colonists with the skill level to achieve desired quality.
 - [RandomPlus](https://steamcommunity.com/sharedfiles/filedetails/?id=1434137894) - Set minimum specs for pawn generation with automatic rerolling until criteria are met.
 - [Replace Stuff - Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=3526354009) - Place buildings over existing structures with automatic replacement while preserving settings.
@@ -95,13 +102,6 @@ Mods that improve the day-to-day experience of playing RimWorld.
 - [TradeHelper](https://steamcommunity.com/sharedfiles/filedetails/?id=2113372560) - Expands trading interface with wishlist feature and enhanced UI for trading dialogs.
 - [Trading Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2007107588) - Designate trading areas, create marketplace stalls, and dismiss unwanted traders.
 - [Use This Instead](https://steamcommunity.com/sharedfiles/filedetails/?id=3396308787) - Configure item replacement preferences for crafting and construction.
-- [Camping Tent](https://steamcommunity.com/sharedfiles/filedetails/?id=2407128339) - Adds portable tent structures that function as beds with mood benefits.
-- [De-generalize Work](https://steamcommunity.com/sharedfiles/filedetails/?id=2011655761) - Restores individual work speed stats for tailoring, smithing, and sculpting.
-- [Better Spike Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=1459119465) - Reduces spike trap costs and removes placement distance limitations.
-- [Grazing Lands](https://steamcommunity.com/sharedfiles/filedetails/?id=1770268130) - Prevents animals from destroying grass when eating with configurable options.
-- [Haul to Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=949498803) - Optimizes hauling by prioritizing adding items to existing stacks.
-- [Hunt for Me](https://steamcommunity.com/sharedfiles/filedetails/?id=1593245720) - Enables tamed predators to hunt solo or in packs with customizable behavior.
-- [Prisoner Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=2864410456) - Enhances prisoner management with assigned beds, food controls, and clothing options.
 - [Wall Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208) - Wall-mounted lights that don't take up floor space.
 
 ## Performance
@@ -110,9 +110,9 @@ Mods that improve game performance, especially for large colonies and mod lists.
 
 - [Better GC: Mothballed and World Pawns](https://steamcommunity.com/sharedfiles/filedetails/?id=2982026860) - Improves performance through better pawn mothballing and reducing unnecessary world pawns via garbage collection.
 - [FPS Stabilizer](https://steamcommunity.com/sharedfiles/filedetails/?id=3318922522) - Increases frame rate stability by raising the minimum FPS threshold at the cost of simulation speed when CPU is constrained.
+- [Performance - Slower Pawn Tick Rate](https://steamcommunity.com/sharedfiles/filedetails/?id=3524116050) - Reduces pawn tick frequency to improve performance in large colonies.
 - [Performance Fish](https://github.com/bbradson/Performance-Fish) - Improves framerates and tick times by patching methods for efficiency, compatible with most mods including CE.
 - [Performance Optimizer](https://steamcommunity.com/sharedfiles/filedetails/?id=2664723367) - Various performance tweaks providing around 20-35% performance gain.
-- [Performance - Slower Pawn Tick Rate](https://steamcommunity.com/sharedfiles/filedetails/?id=3524116050) - Reduces pawn tick frequency to improve performance in large colonies.
 - [RocketMan](https://steamcommunity.com/sharedfiles/filedetails/?id=2479389928) - Major performance improvements including cached def loading for faster startup with large mod lists.
 
 ## UI and Interface
@@ -121,10 +121,16 @@ Mods that enhance the user interface and information display.
 
 - [Better Architect Menu](https://steamcommunity.com/sharedfiles/filedetails/?id=3563882422) - Reorganizes and improves the architect menu for easier navigation.
 - [Camera+](https://steamcommunity.com/sharedfiles/filedetails/?id=867467808) - Extends camera zoom range significantly beyond vanilla limits for screenshots and streaming.
+- [Command Palette](https://steamcommunity.com/sharedfiles/filedetails/?id=2073966033) - Consolidates all building commands into one searchable interface accessible via right-click.
 - [Designator Shapes](https://steamcommunity.com/sharedfiles/filedetails/?id=1235618154) - Adds circle, oval, and other shapes to the building designator.
 - [Dubs Mint Minimap](https://steamcommunity.com/sharedfiles/filedetails/?id=1662119905) - Adds a customizable minimap with multiplayer-compatible ping tool.
+- [Electrical Grid Toggler](https://steamcommunity.com/sharedfiles/filedetails/?id=2681860997) - Adds a toggle to display the power grid with color-coded status indicators.
+- [Extra Alerts](https://steamcommunity.com/sharedfiles/filedetails/?id=1926923167) - Customizable notifications for enemies, downed allies, animal emergencies, and mood alerts.
 - [Float Sub-Menus](https://steamcommunity.com/sharedfiles/filedetails/?id=2864015430) - Framework enabling hierarchical menus with submenus, search fields, and dividers.
+- [Graphics Settings+](https://steamcommunity.com/sharedfiles/filedetails/?id=1678847247) - Improves texture quality with DDS loading, VRAM tracking, and texture sharpening.
 - [Interaction Bubbles](https://steamcommunity.com/sharedfiles/filedetails/?id=1516158345) - Displays floating text bubbles showing pawn social interactions in real-time.
+- [InventoryTab](https://steamcommunity.com/sharedfiles/filedetails/?id=1509278793) - Searchable inventory interface displaying all items across stockpiles and colonists.
+- [Moody](https://steamcommunity.com/sharedfiles/filedetails/?id=826998327) - Floating dashboard displaying colonist moods, thoughts, temperature, skills, and health.
 - [Neat Storage](https://steamcommunity.com/sharedfiles/filedetails/?id=3416243474) - Improves storage zone visuals with organized item displays.
 - [Nice Bill Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=3520130671) - Redesigns workbench bill creation with improved filtering and material selection.
 - [Nice Inventory Tab](https://steamcommunity.com/sharedfiles/filedetails/?id=3609897594) - Redesigns pawn equipment tab with comprehensive stats, health breakdowns, and direct clothing swaps.
@@ -133,16 +139,10 @@ Mods that enhance the user interface and information display.
 - [Relevant Stats In Description](https://steamcommunity.com/sharedfiles/filedetails/?id=2692669482) - Shows building statistics in the architect menu description window.
 - [Research Tree (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=3030499331) - Better research tree with automatic layout optimization and research queuing.
 - [RimHUD](https://steamcommunity.com/sharedfiles/filedetails/?id=1508850027) - Sleek UI overlay showing colonist stats, moods, needs, and injuries at a glance.
+- [Rimpedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2145524536) - Encyclopedia system for collecting information about animals and plants with gameplay bonuses.
 - [Scenario Editor UI Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3547456746) - Improves the scenario editor interface for easier custom game setup.
 - [Show Mod Updates](https://steamcommunity.com/sharedfiles/filedetails/?id=3218690663) - Displays which mods have updated since your last save to identify potential issues.
 - [Toggleable Overlays Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=3261316725) - Makes overlays display only on mouseover to reduce visual clutter and improve performance.
-- [Command Palette](https://steamcommunity.com/sharedfiles/filedetails/?id=2073966033) - Consolidates all building commands into one searchable interface accessible via right-click.
-- [Electrical Grid Toggler](https://steamcommunity.com/sharedfiles/filedetails/?id=2681860997) - Adds a toggle to display the power grid with color-coded status indicators.
-- [Extra Alerts](https://steamcommunity.com/sharedfiles/filedetails/?id=1926923167) - Customizable notifications for enemies, downed allies, animal emergencies, and mood alerts.
-- [Graphics Settings+](https://steamcommunity.com/sharedfiles/filedetails/?id=1678847247) - Improves texture quality with DDS loading, VRAM tracking, and texture sharpening.
-- [InventoryTab](https://steamcommunity.com/sharedfiles/filedetails/?id=1509278793) - Searchable inventory interface displaying all items across stockpiles and colonists.
-- [Moody](https://steamcommunity.com/sharedfiles/filedetails/?id=826998327) - Floating dashboard displaying colonist moods, thoughts, temperature, skills, and health.
-- [Rimpedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2145524536) - Encyclopedia system for collecting information about animals and plants with gameplay bonuses.
 - [Trait Rarity Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=1751884355) - Color-codes trait rarities using a Borderlands-style tier system.
 - [Useful Marks](https://steamcommunity.com/sharedfiles/filedetails/?id=3506573327) - Mark pawns with customizable icons featuring automatic tagging based on conditions.
 
@@ -175,20 +175,20 @@ Major mods that add significant new content or mechanics.
 - [Adaptive Ideology Storage](https://steamcommunity.com/sharedfiles/filedetails/?id=3301337278) - Reimplements Ideology storage objects with enhanced textures and rotation options. 📿
 - [Alpha Animals](https://steamcommunity.com/sharedfiles/filedetails/?id=1541721856) - Adds diverse alien animals with unique mechanics and behaviors.
 - [Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677) - Adds new biomes with unique challenges and resources.
+- [Animal Gear](https://steamcommunity.com/sharedfiles/filedetails/?id=1541438907) - Framework enabling animals to equip gear and clothing like colonists.
 - [Better Trees](https://steamcommunity.com/sharedfiles/filedetails/?id=3539609975) - Improves tree visuals with more detailed and varied appearances.
+- [Diagonal Walls 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2859965620) - Introduces diagonal wall, floor, and object tiles for angled construction.
+- [Dinosauria](https://steamcommunity.com/sharedfiles/filedetails/?id=1136958577) - Adds 32 dinosaur species that spawn naturally with egg-laying mechanics.
 - [Dubs Bad Hygiene](https://steamcommunity.com/sharedfiles/filedetails/?id=836308268) - Adds water, sewage, hygiene systems, and central heating to colonies.
+- [Dubs Skylights](https://steamcommunity.com/sharedfiles/filedetails/?id=833899765) - Craftable skylights that allow sunlight indoors for growing plants inside.
 - [Hospitality](https://steamcommunity.com/sharedfiles/filedetails/?id=753498552) - Allows guests to visit and be recruited through good treatment.
 - [Mass Graves](https://steamcommunity.com/sharedfiles/filedetails/?id=3545739596) - Adds mass burial options for efficient corpse disposal.
+- [More Linkables](https://steamcommunity.com/sharedfiles/filedetails/?id=1103809207) - Adds linkable facilities that boost research, work, healing, and surgery.
+- [More Sculpture](https://steamcommunity.com/sharedfiles/filedetails/?id=1612316880) - Expands statue customization with 72 texture variations per sculpture piece.
 - [RimWorld of Magic](https://steamcommunity.com/sharedfiles/filedetails/?id=1201382956) - Adds 12 magic classes and 6 fighter classes with abilities and development trees.
 - [Save Our Ship 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131) - Build spaceships, travel between planets, and engage in ship combat.
 - [Small Bedroom Furniture](https://steamcommunity.com/sharedfiles/filedetails/?id=3570779724) - Compact furniture options for space-efficient bedroom designs.
 - [Tiny Utilities](https://steamcommunity.com/sharedfiles/filedetails/?id=3597010651) - Collection of small utility items and quality-of-life additions.
-- [Animal Gear](https://steamcommunity.com/sharedfiles/filedetails/?id=1541438907) - Framework enabling animals to equip gear and clothing like colonists.
-- [Diagonal Walls 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2859965620) - Introduces diagonal wall, floor, and object tiles for angled construction.
-- [Dinosauria](https://steamcommunity.com/sharedfiles/filedetails/?id=1136958577) - Adds 32 dinosaur species that spawn naturally with egg-laying mechanics.
-- [Dubs Skylights](https://steamcommunity.com/sharedfiles/filedetails/?id=833899765) - Craftable skylights that allow sunlight indoors for growing plants inside.
-- [More Linkables](https://steamcommunity.com/sharedfiles/filedetails/?id=1103809207) - Adds linkable facilities that boost research, work, healing, and surgery.
-- [More Sculpture](https://steamcommunity.com/sharedfiles/filedetails/?id=1612316880) - Expands statue customization with 72 texture variations per sculpture piece.
 - [VV - New Harvest: Medicinal Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=3552456140) - Adds new medicinal plants for expanded herbal medicine production.
 - [Way Better Romance](https://steamcommunity.com/sharedfiles/filedetails/?id=2877731755) - Romance system overhaul with sexuality traits, dates, and relationship features.
 - [Yayo's Animation (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2877292196) - Adds animations to pawns performing combat, work, and social interactions.
