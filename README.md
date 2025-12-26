@@ -95,6 +95,13 @@ Mods that improve the day-to-day experience of playing RimWorld.
 - [TradeHelper](https://steamcommunity.com/sharedfiles/filedetails/?id=2113372560) - Expands trading interface with wishlist feature and enhanced UI for trading dialogs.
 - [Trading Control](https://steamcommunity.com/sharedfiles/filedetails/?id=2007107588) - Designate trading areas, create marketplace stalls, and dismiss unwanted traders.
 - [Use This Instead](https://steamcommunity.com/sharedfiles/filedetails/?id=3396308787) - Configure item replacement preferences for crafting and construction.
+- [Camping Tent](https://steamcommunity.com/sharedfiles/filedetails/?id=2407128339) - Adds portable tent structures that function as beds with mood benefits.
+- [De-generalize Work](https://steamcommunity.com/sharedfiles/filedetails/?id=2011655761) - Restores individual work speed stats for tailoring, smithing, and sculpting.
+- [Better Spike Traps](https://steamcommunity.com/sharedfiles/filedetails/?id=1459119465) - Reduces spike trap costs and removes placement distance limitations.
+- [Grazing Lands](https://steamcommunity.com/sharedfiles/filedetails/?id=1770268130) - Prevents animals from destroying grass when eating with configurable options.
+- [Haul to Stack](https://steamcommunity.com/sharedfiles/filedetails/?id=949498803) - Optimizes hauling by prioritizing adding items to existing stacks.
+- [Hunt for Me](https://steamcommunity.com/sharedfiles/filedetails/?id=1593245720) - Enables tamed predators to hunt solo or in packs with customizable behavior.
+- [Prisoner Utils](https://steamcommunity.com/sharedfiles/filedetails/?id=2864410456) - Enhances prisoner management with assigned beds, food controls, and clothing options.
 - [Wall Light](https://steamcommunity.com/sharedfiles/filedetails/?id=1423699208) - Wall-mounted lights that don't take up floor space.
 
 ## Performance
@@ -129,6 +136,14 @@ Mods that enhance the user interface and information display.
 - [Scenario Editor UI Overhaul](https://steamcommunity.com/sharedfiles/filedetails/?id=3547456746) - Improves the scenario editor interface for easier custom game setup.
 - [Show Mod Updates](https://steamcommunity.com/sharedfiles/filedetails/?id=3218690663) - Displays which mods have updated since your last save to identify potential issues.
 - [Toggleable Overlays Continued](https://steamcommunity.com/sharedfiles/filedetails/?id=3261316725) - Makes overlays display only on mouseover to reduce visual clutter and improve performance.
+- [Command Palette](https://steamcommunity.com/sharedfiles/filedetails/?id=2073966033) - Consolidates all building commands into one searchable interface accessible via right-click.
+- [Electrical Grid Toggler](https://steamcommunity.com/sharedfiles/filedetails/?id=2681860997) - Adds a toggle to display the power grid with color-coded status indicators.
+- [Extra Alerts](https://steamcommunity.com/sharedfiles/filedetails/?id=1926923167) - Customizable notifications for enemies, downed allies, animal emergencies, and mood alerts.
+- [Graphics Settings+](https://steamcommunity.com/sharedfiles/filedetails/?id=1678847247) - Improves texture quality with DDS loading, VRAM tracking, and texture sharpening.
+- [InventoryTab](https://steamcommunity.com/sharedfiles/filedetails/?id=1509278793) - Searchable inventory interface displaying all items across stockpiles and colonists.
+- [Moody](https://steamcommunity.com/sharedfiles/filedetails/?id=826998327) - Floating dashboard displaying colonist moods, thoughts, temperature, skills, and health.
+- [Rimpedia](https://steamcommunity.com/sharedfiles/filedetails/?id=2145524536) - Encyclopedia system for collecting information about animals and plants with gameplay bonuses.
+- [Trait Rarity Colors](https://steamcommunity.com/sharedfiles/filedetails/?id=1751884355) - Color-codes trait rarities using a Borderlands-style tier system.
 - [Useful Marks](https://steamcommunity.com/sharedfiles/filedetails/?id=3506573327) - Mark pawns with customizable icons featuring automatic tagging based on conditions.
 
 ## Combat
@@ -168,7 +183,15 @@ Major mods that add significant new content or mechanics.
 - [Save Our Ship 2](https://steamcommunity.com/sharedfiles/filedetails/?id=1909914131) - Build spaceships, travel between planets, and engage in ship combat.
 - [Small Bedroom Furniture](https://steamcommunity.com/sharedfiles/filedetails/?id=3570779724) - Compact furniture options for space-efficient bedroom designs.
 - [Tiny Utilities](https://steamcommunity.com/sharedfiles/filedetails/?id=3597010651) - Collection of small utility items and quality-of-life additions.
+- [Animal Gear](https://steamcommunity.com/sharedfiles/filedetails/?id=1541438907) - Framework enabling animals to equip gear and clothing like colonists.
+- [Diagonal Walls 2](https://steamcommunity.com/sharedfiles/filedetails/?id=2859965620) - Introduces diagonal wall, floor, and object tiles for angled construction.
+- [Dinosauria](https://steamcommunity.com/sharedfiles/filedetails/?id=1136958577) - Adds 32 dinosaur species that spawn naturally with egg-laying mechanics.
+- [Dubs Skylights](https://steamcommunity.com/sharedfiles/filedetails/?id=833899765) - Craftable skylights that allow sunlight indoors for growing plants inside.
+- [More Linkables](https://steamcommunity.com/sharedfiles/filedetails/?id=1103809207) - Adds linkable facilities that boost research, work, healing, and surgery.
+- [More Sculpture](https://steamcommunity.com/sharedfiles/filedetails/?id=1612316880) - Expands statue customization with 72 texture variations per sculpture piece.
 - [VV - New Harvest: Medicinal Plants](https://steamcommunity.com/sharedfiles/filedetails/?id=3552456140) - Adds new medicinal plants for expanded herbal medicine production.
+- [Way Better Romance](https://steamcommunity.com/sharedfiles/filedetails/?id=2877731755) - Romance system overhaul with sexuality traits, dates, and relationship features.
+- [Yayo's Animation (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2877292196) - Adds animations to pawns performing combat, work, and social interactions.
 
 ## Mod Collections
 
